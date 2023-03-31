@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SCOTTY0101
-- 👀 I’m interested in programming.
+- 👀 Regularly attend ReactBris and Ennovate Brisbane.
 - 🌱 I’m currently learning JavaScript, Front-end and linux.
 - 💞️ I’m looking to collaborate on Front-end or open source projects.
 - 📫 How to reach me ...see the links in my profile.
